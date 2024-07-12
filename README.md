@@ -1,3 +1,3 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: /.well-known
+title: "well-known"
+permalink: /.well-known/assetlinks.json
