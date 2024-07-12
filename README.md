@@ -1,5 +1,4 @@
 ---
-layout: page
-title: "PAGE-TITLE"
-permalink: /.well-known
+layout: get
+permalink: /.well-known/assetlinks.json
 ---
