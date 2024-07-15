@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.meetvr.magiccamera",
+    "package_name": "com.meetvr.magic.camera",
     "sha256_cert_fingerprints":
-    ["67:51:DE:90:26:B8:2A:56:9F:9D:F9:F9:3C:16:AB:16:D6:03:93:9F:C7:A4:E9:46:60:B5:BB:D5:1F:22:95:3D"]
+    ["38:BD:E1:28:BC:45:AA:5E:A2:6F:C2:C4:CE:53:38:FA:30:1C:5B:7A:85:7B:7A:18:97:4A:75:B5:B8:3C:18:03"]
   }
 },
 {
@@ -18,8 +18,8 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.meetvr.magiccamera",
+    "package_name": "com.meetvr.magic.camera",
     "sha256_cert_fingerprints":
-    ["67:51:DE:90:26:B8:2A:56:9F:9D:F9:F9:3C:16:AB:16:D6:03:93:9F:C7:A4:E9:46:60:B5:BB:D5:1F:22:95:3D"]
+    ["38:BD:E1:28:BC:45:AA:5E:A2:6F:C2:C4:CE:53:38:FA:30:1C:5B:7A:85:7B:7A:18:97:4A:75:B5:B8:3C:18:03"]
   }
 }]
