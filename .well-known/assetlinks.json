@@ -4,22 +4,6 @@
     "namespace": "android_app",
     "package_name": "com.meetvr.magic.camera",
     "sha256_cert_fingerprints":
-    ["38:BD:E1:28:BC:45:AA:5E:A2:6F:C2:C4:CE:53:38:FA:30:1C:5B:7A:85:7B:7A:18:97:4A:75:B5:B8:3C:18:03"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://yxyhail.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.meetvr.magic.camera",
-    "sha256_cert_fingerprints":
-    ["38:BD:E1:28:BC:45:AA:5E:A2:6F:C2:C4:CE:53:38:FA:30:1C:5B:7A:85:7B:7A:18:97:4A:75:B5:B8:3C:18:03"]
+    ["09:06:23:F9:E5:35:F0:86:A0:D9:DA:D9:24:24:56:C5:D0:76:43:E7:44:C0:72:36:E2:03:0D:AA:F3:42:1B:41"]
   }
 }]
