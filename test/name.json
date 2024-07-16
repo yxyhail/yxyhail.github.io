@@ -1,25 +1,3 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.meetvr.magiccamera",
-    "sha256_cert_fingerprints":
-    ["67:51:DE:90:26:B8:2A:56:9F:9D:F9:F9:3C:16:AB:16:D6:03:93:9F:C7:A4:E9:46:60:B5:BB:D5:1F:22:95:3D"]
-  }
-},
 {
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://192.168.5.104:37891"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.meetvr.magiccamera",
-    "sha256_cert_fingerprints":
-    ["67:51:DE:90:26:B8:2A:56:9F:9D:F9:F9:3C:16:AB:16:D6:03:93:9F:C7:A4:E9:46:60:B5:BB:D5:1F:22:95:3D"]
-  }
-}]
+  "name":"haha"
+}
